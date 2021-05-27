@@ -8,3 +8,5 @@ But you'll be able to read this on GitHub when we put it onto a GitHub remote!
 
 This is going to be quite an experience. 
 We are  going to keep editing for GitHub.
+
+Added on Thursday through Nano.
